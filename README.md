@@ -1,1 +1,3 @@
 # MinimotwoEA
+
+Examen ok
